@@ -92,7 +92,7 @@ body {
 
 .project-grid {
     display: flex;
-    gap: 20px;
+    gap: 400px;
     flex-wrap: wrap;
 }
 
